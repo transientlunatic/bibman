@@ -33,7 +33,7 @@ setup(
                  'bibman'},
     entry_points={
         'console_scripts': [
-            'bibman=bibman.cli:main'
+            'bibman=bibman.cli:bibman'
         ]
     },
     include_package_data=True,
